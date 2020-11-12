@@ -3,7 +3,7 @@
 
 #### LINKS
 
-1. This project's page:  [http://kmjax.surge.sh/hw/2020-11-09_bs1/](http://kmjax.surge.sh/hw/2020-11-09_bs1/)
+1. This project's page:  [https://kmjax.surge.sh/hw/2020-11-09_bs1/](https://kmjax.surge.sh/hw/2020-11-09_bs1/)
 1. Menu of all projects:  [https://kmjax.surge.sh](https://kmjax.surge.sh)
 
 
